@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "用户端清理程序", "用户端清理程序.vcxproj", "{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}.Debug|x64.ActiveCfg = Debug|x64
+		{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}.Debug|x64.Build.0 = Debug|x64
+		{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}.Debug|x86.ActiveCfg = Debug|Win32
+		{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}.Debug|x86.Build.0 = Debug|Win32
+		{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}.Release|x64.ActiveCfg = Release|x64
+		{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}.Release|x64.Build.0 = Release|x64
+		{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}.Release|x86.ActiveCfg = Release|Win32
+		{037FAC98-1FDB-4CEC-B070-5330DE8B87FD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {686E69BE-51B6-424B-8EC3-AE97341D42B5}
+	EndGlobalSection
+EndGlobal
